@@ -13,10 +13,15 @@ Home Page
 Dashboard 
 ![](screenshots/dashboard.JPG)
 
+Sender details
+![](screenshots/sender.JPG)
+
 Receipnt User
 ![](screenshots/receipent.JPG)
+
 Amount Selection
 ![](screenshots/amount.JPG)
+
 Transfer Sucess
 ![](screenshots/sucess.JPG)
 
