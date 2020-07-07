@@ -6,7 +6,7 @@ A Simple Credit management Website to transfer credits from one account to anoth
 1.One cannot transfer Credit to self
 2.One cannot transfer more than the Credit avaliable in his account
 ### Task to Develop
-![](q.JPG)
+![](screenshots/pic1.JPG)
 ### Screenshots of project
 ![](myp1.JPG)
 ![](myp2.JPG)
