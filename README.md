@@ -15,16 +15,16 @@ Dashboard
 ![](screenshots/dashboard.JPG)
 
 Sender details
-![](screenshots/sender details.JPG)
+![](screenshots/sender.JPG)
 
 Receipnt User
-![](screenshots/receipent user.JPG)
+![](screenshots/receipent.JPG)
 
 Amount Selection
-![](screenshots/amount selection.JPG)
+![](screenshots/amount.JPG)
 
 Transfer Sucess
-![](screenshots/transfer sucess.JPG)
+![](screenshots/sucess.JPG)
 
 
 
