@@ -8,9 +8,23 @@ A Simple Credit management Website to transfer credits from one account to anoth
 ### Task to Develop
 ![](screenshots/pic1.JPG)
 ### Screenshots of project
-![](myp1.JPG)
-![](myp2.JPG)
+Home Page
+![](screenshots/home.JPG)
 
+Dashboard 
+![](screenshots/dashboard.JPG)
+
+Sender details
+![](screenshots/sender details.JPG)
+
+Receipnt User
+![](screenshots/receipent user.JPG)
+
+Amount Selection
+![](screenshots/amount selection.JPG)
+
+Transfer Sucess
+![](screenshots/transfer sucess.JPG)
 
 
 
