@@ -10,19 +10,13 @@ A Simple Credit management Website to transfer credits from one account to anoth
 ### Screenshots of project
 Home Page
 ![](screenshots/home.JPG)
-
 Dashboard 
 ![](screenshots/dashboard.JPG)
 
-Sender details
-![](screenshots/sender.JPG)
-
 Receipnt User
 ![](screenshots/receipent.JPG)
-
 Amount Selection
 ![](screenshots/amount.JPG)
-
 Transfer Sucess
 ![](screenshots/sucess.JPG)
 
