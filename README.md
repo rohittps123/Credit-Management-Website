@@ -10,11 +10,11 @@ A Simple Credit management Website to transfer credits from one account to anoth
 ### Screenshots of project
 Home Page
 ![](screenshots/home.JPG)
+
 Dashboard 
 ![](screenshots/dashboard.JPG)
-Sender details
-******************************************************
 
+Sender details
 ![](screenshots/sender.JPG)
 
 Recipient User
