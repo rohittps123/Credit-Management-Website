@@ -12,6 +12,7 @@ Home Page
 ![](screenshots/home.JPG)
 Dashboard 
 ![](screenshots/dashboard.JPG)
+******************************************************
 Sender details
 ![](screenshots/sender.JPG)
 
