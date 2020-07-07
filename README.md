@@ -17,7 +17,7 @@ Sender details
 
 ![](screenshots/sender.JPG)
 
-Receipnt User
+Recipient User
 ![](screenshots/receipent.JPG)
 
 Amount Selection
